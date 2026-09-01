@@ -5,7 +5,7 @@ The recommendation engine transforms qualitative skill terms into high-dimension
 
 # TF-IDF Feature Extraction
 - *Term Frequency (TF)*: Evaluates the occurrence frequency of a specific skill within a single job profile.
-- *Inverse Document Frequency (IDF)*: Applies logarithmic dampening to penalize ubiquitous, generic terms while heavily weighting distinct, highly specific skills:
+- *Inverse Document Frequency (IDF)*: Applies logarithmic dampening to penalize ubiquitous, generic terms while heavily weighting distinct, highly specific skills
   
 # Cosine Similarity Engine
 To ensure evaluation is invariant to description length or magnitude, closeness is measured via the cosine of the angle between the user preference vector and item profile vector.

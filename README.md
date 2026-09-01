@@ -1,4 +1,4 @@
-# DecodeLabs AI Project 3: Tech Stack Recommender
+# Tech Stack Recommender
 
 A content-based recommendation system built in Python that maps raw user skills and preferences to target career roles using Term Frequency-Inverse Document Frequency (TF-IDF) vectorization and Cosine Similarity math.
 

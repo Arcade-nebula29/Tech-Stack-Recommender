@@ -8,4 +8,4 @@ A content-based recommendation system built in Python that maps raw user skills 
 - 'architecture.md': Technical documentation explaining the vector space model and mathematical logic.
 - 'workflow.md': Detailed breakdown of the 4-step processing pipeline.
 - 'requirements.txt': Python package dependencies.
-- 
+
